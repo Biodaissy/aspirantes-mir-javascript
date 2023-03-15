@@ -9,4 +9,4 @@ function join(arreglo) {
   }
   return string;
 }
-console.log(join("holamundo"));
+console.log(join(["hola", "mundo"]));
